@@ -1,0 +1,32 @@
+{
+    "touser": "oH64bwkyegY9EMbBS_9ET_I4Xmv0",
+    "msgtype": "news",
+    "news": {
+        "articles": [
+            {
+                "title": "今日[2017-02-06]长垣数据中心系统报告",
+                "description": "长垣数据中心健康报告！内容包括，出入口流量统计，每日用户PV，系统日志情况，系统安全等等相关内容！",
+                "url": "https://www.os4u.xyz/ping",
+                "picurl": "http://www.ue.cn/style/front/images/lianjiaologo.png"
+            },
+            {
+                "title": "今日[2017-02-06]0校园网络带宽报告",
+                "description": "每所学校使用带宽统计相关内容！",
+                "url": "https://www.os4u.xyz/ping",
+                "picurl": "http://www.ue.cn/style/front/images/lianjiaologo.png"
+            },
+            {
+                "title": "今日[2017-02-06]1校园网络带宽报告",
+                "description": "每所学校使用带宽统计相关内容！",
+                "url": "https://www.os4u.xyz/ping",
+                "picurl": "http://www.ue.cn/style/front/images/lianjiaologo.png"
+            },
+            {
+                "title": "今日[2017-02-06]4校园网络带宽报告",
+                "description": "每所学校使用带宽统计相关内容！",
+                "url": "https://www.os4u.xyz/ping",
+                "picurl": "http://www.ue.cn/style/front/images/lianjiaologo.png"
+            }
+        ]
+      }
+}
