@@ -1,5 +1,6 @@
-// 封装例子
 package main
+
+// 封装例子
 
 import "fmt"
 
